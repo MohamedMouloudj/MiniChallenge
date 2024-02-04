@@ -24,12 +24,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-![](./images/Product-card-challenge.png)
-
-![](./images/Product-card-challenge-mobileV.png.png)
-
-
+![MiniChallenge](./Product-preview-card/images/image-product-mobile.jpg)
 
 ### Built with
 
